@@ -1,0 +1,69 @@
+{
+  "pageName": "mynmaemm",
+  "content": {
+    "hero": {
+      "heading": "Welcome to Your Business",
+      "subheading": "We provide the best services for your needs",
+      "ctaText": "Get Started",
+      "backgroundImage": "/placeholder.svg?height=400&width=800&text=Hero+Background"
+    },
+    "features": {
+      "heading": "Our Features",
+      "items": [
+        {
+          "title": "Feature 1",
+          "description": "This is a description for feature 1. Explain the benefits here.",
+          "icon": "star"
+        },
+        {
+          "title": "Feature 2",
+          "description": "This is a description for feature 2. Explain the benefits here.",
+          "icon": "heart"
+        },
+        {
+          "title": "Feature 3",
+          "description": "This is a description for feature 3. Explain the benefits here.",
+          "icon": "shield"
+        }
+      ]
+    },
+    "about": {
+      "heading": "About Us",
+      "content": "Tell your story here. Explain what makes your business unique and why customers should choose you.",
+      "image": "/placeholder.svg?height=300&width=400&text=About+Image"
+    },
+    "contact": {
+      "heading": "Get In Touch",
+      "email": "contact@yourbusiness.com",
+      "phone": "+1 (234) 567-8900",
+      "address": "123 Business Street, City, State, ZIP",
+      "showMap": true
+    }
+  },
+  "settings": {
+    "title": "Your Business - Official Website",
+    "description": "Your Business provides top-quality services for all your needs. Contact us today for a free consultation.",
+    "url": "mynmaemm",
+    "theme": "creative",
+    "colorTheme": "teal",
+    "fontStyle": "modern",
+    "layout": "centered",
+    "socialMedia": {
+      "facebook": false,
+      "twitter": false,
+      "instagram": false,
+      "linkedin": false
+    },
+    "analytics": {
+      "enabled": false,
+      "googleAnalyticsId": ""
+    },
+    "visibility": "public",
+    "customDomain": {
+      "enabled": false,
+      "domain": ""
+    }
+  },
+  "createdAt": "2025-06-19T12:36:15.905Z",
+  "updatedAt": "2025-06-19T12:36:15.905Z"
+}
